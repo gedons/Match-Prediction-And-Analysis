@@ -1,0 +1,24 @@
+# Match Prediction and Analysis
+
+This is a Football Match Prediction App built using Node.js and Express for the backend, with a focus on providing users with predictions based on recent match data, team standings, and betting odds. The application integrates with the Football-Data API for match data and The Odds API for betting odds, enabling users to make informed predictions about upcoming football matches.
+
+## Features
+
+- Fetch upcoming matches based on user-selected competitions.
+- Generate match predictions using a rule-based algorithm that considers team form, head-to-head results, and current standings.
+- Retrieve live betting odds from various bookmakers.
+- User-friendly API endpoints for seamless interaction.
+
+## Technologies Used
+
+- Node.js
+- Express.js
+- Axios (for API requests)
+- Football-Data API
+- The Odds API
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gedons/Match-Prediction-And-Analysis.git
